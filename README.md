@@ -7,10 +7,10 @@ i. Create a folder called assets, the images will be stored here
 ii. Create two folders one called js and another called scss
 iii. Create the HTML, SCSS, CSS and JavaScript Files
 # Features
-Responsive
-Some Animations
-HTML Cards
-Social Media Links
+Responsive,
+ Animations,
+ HTML Cards,
+ Social Media Links
 # License
 Licensed Under MIT 
 You can use this software, just say where you got it from
